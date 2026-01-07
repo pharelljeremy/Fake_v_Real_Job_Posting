@@ -1,0 +1,8 @@
+{
+  "n_rows": 3000,
+  "n_columns": 26,
+  "fake_count": 1472,
+  "real_count": 1528,
+  "text_length_mean": 608.9953333333333,
+  "text_length_median": 661.5
+}
