@@ -1,0 +1,18 @@
+Python
+pycache/
+*.pyc
+macOS
+.DS_Store
+Virtualenv
+.venv/
+venv/
+Jupyter
+.ipynb_checkpoints
+Editors
+.idea/
+.vscode/
+Ignore build/outputs and local large files
+outputs/
+cleaned_data/
+raw_data/
+models/
