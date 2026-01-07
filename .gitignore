@@ -13,6 +13,4 @@ Editors
 .vscode/
 Ignore build/outputs and local large files
 outputs/
-cleaned_data/
 raw_data/
-models/
